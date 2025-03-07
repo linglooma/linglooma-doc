@@ -1,0 +1,9 @@
+[submodule "linglooma-core"]
+	path = linglooma-core
+	url = https://github.com/linglooma/linglooma-core.git
+[submodule "linglooma-fe"]
+	path = linglooma-fe
+	url = https://github.com/linglooma/linglooma-fe.git
+[submodule "linglooma-be"]
+	path = linglooma-be
+	url = https://github.com/linglooma/linglooma-be.git
